@@ -106,12 +106,11 @@ where ContactTitle = 'Owner'
 			from Shippers
 			where CompanyName = 'Federal Shipping'));
 ```
-Матеріали для повторення:
-
-[Cloud Databases (practice) pt2 - відео заняття](https://youtu.be/czFZ8VQpGLk)
-[Cloud Databases (practice) pt3 - відео заняття](https://youtu.be/x0Jfq9qpKdU)
-[Предикати порівняння (рос.)](http://sql-ex.ru/help/select2.php)
-[Предикат LIKE (рос.)](http://www.sql-tutorial.ru/ru/book_predicate_like.html)
-[Функції по роботі з текстом (англ.)](https://www.tutorialspoint.com/sql/sql-string-functions.htm)
-[Підзапити (укр.)](http://moonexcel.com.ua/%D1%83%D1%80%D0%BE%D0%BA%D0%B8-sql9-%D0%BF%D1%96%D0%B4%D0%B7%D0%B0%D0%BF%D0%B8%D1%82%D0%B8_ua)
+Матеріали для повторення:    
+[Cloud Databases (practice) pt2 - відео заняття](https://youtu.be/czFZ8VQpGLk)      
+[Cloud Databases (practice) pt3 - відео заняття](https://youtu.be/x0Jfq9qpKdU)   
+[Предикати порівняння (рос.)](http://sql-ex.ru/help/select2.php)   
+[Предикат LIKE (рос.)](http://www.sql-tutorial.ru/ru/book_predicate_like.html)   
+[Функції по роботі з текстом (англ.)](https://www.tutorialspoint.com/sql/sql-string-functions.htm)    
+[Підзапити (укр.)](http://moonexcel.com.ua/%D1%83%D1%80%D0%BE%D0%BA%D0%B8-sql9-%D0%BF%D1%96%D0%B4%D0%B7%D0%B0%D0%BF%D0%B8%D1%82%D0%B8_ua)    
 
