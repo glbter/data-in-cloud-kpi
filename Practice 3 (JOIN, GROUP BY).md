@@ -222,3 +222,4 @@ https://stackoverflow.com/questions/4259611/count-without-group
 
 **hint: you can join tables on calculated values**   
 you can join with `using(EmployeeID)`
+you can use `select partition by over` [link](https://www.sqlshack.com/sql-partition-by-clause-overview/)
