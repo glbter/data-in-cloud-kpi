@@ -5,9 +5,9 @@
 ```sql
 SELECT * FROM Orders WHERE ShippedDate = ShippedDate
 ```
-
+```sql
 SELECT * FROM Orders WHERE ShippedDate IS NOT NULL
-
+```
 
 ### 2.	Модифікувати запит зменшивши кількість операцій на кожному рядку до однієї:
 ```sql
